@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rake'asdcqwe
+gem 'rake'asdcqwehgj
 gem 'berkshelf', '~> 3.2.1'
 
 group :test do
