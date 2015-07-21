@@ -1,7 +1,7 @@
 name              "java"
 maintainer        "Agile Orbit"
 maintainer_email  "info@agileorbit.com"
-license           "Apache 2.0"zxcv
+license           "Apache 2.0"zxcvasfd
 description       "Installs Java runtime."
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version           "1.32.1"
